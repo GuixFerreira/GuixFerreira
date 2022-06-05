@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, Meu nome é Guilherme 👋
+#### Seja Bem-Vindo(a) ao meu GitHub
 
 <!--
 **GuixFerreira/GuixFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div aling = "center">
+  <a href="https://github.com/GuixFerreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuixFerreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuixFerreira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
+  ##
+  
+<div aling = center>
+  <a href="https://www.linkedin.com/in/guilherme-ferreira-da-costa-648124240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gferreiracosta30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
+</div>
